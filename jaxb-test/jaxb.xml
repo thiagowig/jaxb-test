@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<estado>
+    <nome>Minas Gerais</nome>
+    <cidades>
+        <cidade>
+            <nome>Belo Horizonte</nome>
+            <melhorTimeDeFutebol>Cruzeiro</melhorTimeDeFutebol>
+        </cidade>
+        <cidade>
+            <nome>Formiga</nome>
+            <melhorTimeDeFutebol>Vila</melhorTimeDeFutebol>
+        </cidade>
+    </cidades>
+</estado>
